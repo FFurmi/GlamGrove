@@ -1,0 +1,35 @@
+#card{
+    transform: translateY(10px);
+    background-color: red;
+}
+
+#card:hover {
+    transform: translateY(0);
+    background-color: rgb(65, 64, 64) !important;
+    color: black !important;
+}
+
+
+
+.card-title {
+    position: relative;
+    display: inline-block;
+    padding-bottom: 10px;
+    font-size: 25px !important;
+}
+
+.card-title::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 3px;
+    background-color: #cc866c;
+    transition: width 0.3s ease;
+}
+
+.card-title:hover::after {
+    width: 100%;
+    
+}

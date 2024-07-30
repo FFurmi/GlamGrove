@@ -1,0 +1,42 @@
+.portfolio-info {
+    position: relative;
+    
+}
+
+.portfolio-img {
+    width: 100%;
+    display: block;
+    transition: opacity 0.3s ease-in-out;
+}
+
+ 
+
+.portfolio-type {
+    
+    position: absolute;
+    bottom: -30px; /* Start position off-screen */
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    opacity: 0;
+    transition: bottom 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.portfolio-info:hover .portfolio-type {
+    bottom: 30px; /* Final position on-screen */
+    opacity: 1;
+}
+.portfolio-info:hover .portfolio-img {
+    
+    opacity: 0.3;
+}
+
+
+.custom-modal-header, .custom-modal-footer , .custom-modal-body {
+   
+    color: black;
+    border: 2px solid  #cc866c;
+}
+
+
+

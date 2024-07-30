@@ -1,0 +1,20 @@
+.contact-icon{
+    background-color: #cc866c;
+    color: white;
+    padding: 30px;
+    font-size: 35px;
+    border-radius: 50%;
+   
+
+}
+
+.input-field{
+    height: 70px;
+   
+}
+
+.input-field-msg, .input-field{
+    border-radius: 30px;
+    border: 0;
+    padding: 15px;
+}

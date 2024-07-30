@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "userName": "Jane Doe",
+        "feedback": "I had an amazing experience! The bridal makeup was flawless and lasted all day. Highly recommend!",
+        "rating": 5,
+        "date": "2024-07-01"
+    },
+    {
+        "id": 2,
+        "userName": "Emily Smith",
+        "feedback": "The natural look was perfect for my photoshoot. The attention to detail was fantastic. Will be back for sure!",
+        "rating": 5,
+        "date": "2024-07-05"
+    },
+    {
+        "id": 3,
+        "userName": "Michael Johnson",
+        "feedback": "Professional and friendly service. My hair and makeup were spot on for the event. Thank you!",
+        "rating": 4,
+        "date": "2024-06-28"
+    },
+    {
+        "id": 4,
+        "userName": "Sarah Brown",
+        "feedback": "Loved the dewy look! It was fresh and lasted throughout the day. Great job!",
+        "rating": 4,
+        "date": "2024-07-10"
+    },
+    {
+        "id": 5,
+        "userName": "Laura Wilson",
+        "feedback": "The full glam look was amazing. It was exactly what I wanted for my birthday party. Thank you so much!",
+        "rating": 5,
+        "date": "2024-07-12"
+    },
+    {
+        "id": 6,
+        "userName": "James Davis",
+        "feedback": "Excellent service and very professional. The makeup artist listened to my needs and delivered a great look.",
+        "rating": 4,
+        "date": "2024-07-03"
+    },
+    {
+        "id": 7,
+        "userName": "Anna Martinez",
+        "feedback": "The makeup lesson was very informative and helpful. I learned a lot about how to apply makeup correctly.",
+        "rating": 5,
+        "date": "2024-07-15"
+    },
+    {
+        "id": 8,
+        "userName": "Chris Garcia",
+        "feedback": "The semi bridal look was perfect. It was subtle yet elegant. Great job by the team!",
+        "rating": 5,
+        "date": "2024-07-08"
+    },
+    {
+        "id": 9,
+        "userName": "Sophia Lee",
+        "feedback": "Very satisfied with the service. The makeup artist was skilled and friendly. Will recommend to others.",
+        "rating": 4,
+        "date": "2024-07-14"
+    },
+    {
+        "id": 10,
+        "userName": "David Anderson",
+        "feedback": "The makeup was good, but the appointment started a bit late. Overall, a positive experience.",
+        "rating": 3,
+        "date": "2024-07-11"
+    }
+]

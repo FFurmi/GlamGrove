@@ -1,0 +1,45 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+}
+
+.link{
+  text-decoration: none;
+  margin-right: 20px;
+  font-size: 20px;
+  color: white;
+}
+
+
+.link:hover{
+  color: #cc866c;
+}
+#button{
+  background-color: #cc866c;
+  color: white;
+  border: 1px solid white;
+}
+
+p{
+  color: white;
+  font-size: 20px;
+}
+h1{
+  font-size: 48px;
+  color: white;
+  
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}

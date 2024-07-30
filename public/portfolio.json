@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "makeType": "Eye Makeup",
+        "picture": "images/eyemakeup.png",
+        "description": "Gorgeous eye makeup with a blend of vibrant colors that make your eyes pop. Perfect for any occasion, whether it's a night out or a special event.",
+        "customerName": "Alice Johnson",
+        "customerFeedback": "Absolutely loved the eye makeup! The colors were vibrant and lasted all night."
+    },
+    {
+        "id": 2,
+        "makeType": "Bridal Makeup",
+        "picture": "images/bride.webp",
+        "description": "Flawless bridal makeup designed to make you look stunning on your special day. Long-lasting and picture-perfect, ensuring you look your best from morning till night.",
+        "customerName": "Emily Davis",
+        "customerFeedback": "The bridal makeup was perfect. It lasted all day and looked amazing in photos!"
+    },
+    {
+        "id": 3,
+        "makeType": "Full Glam Look",
+        "picture": "images/fullglam.webp",
+        "description": "Dramatic full glam look featuring expert contouring and highlighting. Ideal for those who want to make a bold statement.",
+        "customerName": "Jessica Williams",
+        "customerFeedback": "The full glam look was incredible! I received so many compliments on my makeup."
+    },
+    {
+        "id": 4,
+        "makeType": "Hair Setup",
+        "picture": "images/hairsetup.webp",
+        "description": "Professional hair setup to complete your look. Our stylists ensure your hair looks perfect and complements your makeup.",
+        "customerName": "Samantha Brown",
+        "customerFeedback": "The hair setup was flawless and stayed perfect throughout the event."
+    },
+    {
+        "id": 5,
+        "makeType": "Semi Bridal Look",
+        "picture": "images/semibridal.webp",
+        "description": "Semi bridal look with subtle enhancements that highlight your natural beauty. Ideal for pre-wedding events or a more understated bridal look.",
+        "customerName": "Olivia Martinez",
+        "customerFeedback": "Loved the semi bridal look! It was just the right amount of glam without being over the top."
+    },
+    {
+        "id": 6,
+        "makeType": "Reception Look",
+        "picture": "images/reception.webp",
+        "description": "Stunning reception makeup to complement your outfit. Our makeup artists create a look that ensures you stand out on your special evening.",
+        "customerName": "Isabella Garcia",
+        "customerFeedback": "The reception look was stunning! I felt so beautiful and confident."
+    },
+    {
+        "id": 7,
+        "makeType": "Bridesmaids Look",
+        "picture": "images/bridemaids.webp",
+        "description": "Beautiful makeup for bridesmaids that ensures they shine alongside the bride. Coordinated looks that enhance the wedding theme.",
+        "customerName": "Sophia Rodriguez",
+        "customerFeedback": "The bridesmaids' makeup was beautiful and complemented the bridal look perfectly."
+    },
+    {
+        "id": 8,
+        "makeType": "Engagement Bride Makeup",
+        "picture": "images/engagement.webp",
+        "description": "Glamorous engagement makeup for the bride-to-be. Designed to make you glow in all your engagement photos.",
+        "customerName": "Ava Hernandez",
+        "customerFeedback": "My engagement makeup was glamorous and made me feel like a queen!"
+    },
+    {
+        "id": 9,
+        "makeType": "Natural Look",
+        "picture": "images/natural.webp",
+        "description": "Elegant natural look for everyday wear. Enhances your features without looking too made up.",
+        "customerName": "Mia Lopez",
+        "customerFeedback": "The natural look was perfect for my daily routine. It made me feel effortlessly beautiful."
+    },
+    {
+        "id": 10,
+        "makeType": "Dewy Look",
+        "picture": "images/dewymakeup.webp",
+        "description": "Fresh and dewy look for a radiant complexion. Gives you a healthy, glowing appearance that's perfect for any occasion.",
+        "customerName": "Charlotte Gonzalez",
+        "customerFeedback": "I loved the dewy look! My skin looked so fresh and radiant."
+    },
+    {
+        "id": 11,
+        "makeType": "Long Lasting Makeup Look",
+        "picture": "images/longlasting.webp",
+        "description": "Makeup look that stays perfect all day long. Ideal for long events where you need your makeup to last without touch-ups.",
+        "customerName": "Amelia Wilson",
+        "customerFeedback": "The long-lasting makeup was incredible. It stayed perfect from morning to night."
+    },
+    {
+        "id": 12,
+        "makeType": "Evening Makeup",
+        "picture": "images/eveningmakeup.webp",
+        "description": "Elegant, glamorous looks for unforgettable nights and special events. Our makeup artists create stunning evening looks that make you stand out.",
+        "customerName": "Harper Anderson",
+        "customerFeedback": "The evening makeup was glamorous and perfect for my special night out."
+    }
+]

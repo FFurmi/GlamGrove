@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "makeType": "Eye Makeup",
+        "picture": "images/eyemakeup.png",
+        "price": 45.00,
+        "description": "Gorgeous eye makeup with a blend of vibrant colors."
+    },
+    {
+        "id": 2,
+        "makeType": "Bridal Makeup",
+        "picture": "images/bride.webp",
+        "price": 150.00,
+        "description": "Flawless bridal makeup for your special day."
+    },
+    {
+        "id": 3,
+        "makeType": "Full Glam Look",
+        "picture": "images/fullglam.webp",
+        "price": 120.00,
+        "description": "Dramatic full glam look with contouring and highlighting."
+    },
+    {
+        "id": 4,
+        "makeType": "Hair Setup",
+        "picture": "images/hairsetup.webp",
+        "price": 60.00,
+        "description": "Professional hair setup to complete your look."
+    },
+   
+    {
+        "id": 5,
+        "makeType": "Semi Bridal Look",
+        "picture": "images/semibridal.webp",
+        "price": 130.00,
+        "description": "Semi bridal look with subtle enhancements."
+    },
+    {
+        "id": 6,
+        "makeType": "Reception Look",
+        "picture": "images/reception.webp",
+        "price": 140.00,
+        "description": "Stunning reception makeup to complement your outfit."
+    },
+    {
+        "id": 7,
+        "makeType": "Bridesmaids Look",
+        "picture": "images/bridemaids.webp",
+        "price": 80.00,
+        "description": "Beautiful makeup for bridesmaids to shine."
+    },
+    {
+        "id": 8,
+        "makeType": "Engagement Bride Makeup",
+        "picture": "images/engagement.webp",
+        "price": 135.00,
+        "description": "Glamorous engagement makeup for the bride-to-be."
+    },
+    {
+        "id": 9,
+        "makeType": "Natural Look",
+        "picture": "images/natural.webp",
+        "price": 75.00,
+        "description": "Elegant natural look for everyday wear."
+    },
+    {
+        "id": 10,
+        "makeType": "Dewy Look",
+        "picture": "images/dewymakeup.webp",
+        "price": 85.00,
+        "description": "Fresh and dewy look for a radiant complexion."
+    },
+    {
+        "id": 11,
+        "makeType": "Long Lasting Makeup Look",
+        "picture": "images/longlasting.webp",
+        "price": 110.00,
+        "description": "Makeup look that stays perfect all day long."
+    },
+    {
+        "id": 12,
+        "makeType": "Evening makeup",
+        "picture": "images/eveningmakeup.webp",
+        "price": 70.00,
+        "description": "Elegant, glamorous looks for unforgettable nights and special events."
+    }
+]
